@@ -1,3 +1,6 @@
 jupyterlab-citation-manager==1.0.0
-pandas # for data tables
-matplotlib-3.10.8 # for plot graph
+pandas>=2.0 # for data tables
+matplotlib==3.10.8 # for plot graph
+
+Pillow>=10.0 # for image display
+capstone>=5.0 # for disassembly
