@@ -26,12 +26,12 @@ code: 15
 ### Check Output Sizes and Rules
 - Output cell 8 size: 1919.83 KB
 > First words of input cell: from IPython.display import Image metadata={
-- Output cell 21 size: 2044.54 KB
+- Output cell 21 size: 2044.76 KB
 > First words of input cell: from IPython.display import Image metadata={
 - Audio found in output of cell 68
 > First words of input cell: from IPython.display import Audio print("Example
 
-Total output size: 5847.71 KB
+Total output size: 5846.28 KB
 Total number of images: 11
 Total number of tables: 0
 Total number of audios: 0
