@@ -26,6 +26,9 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           file_pattern: '*.md'
+          ref: ${{ github.head_ref }} # Added because of crash
+          fetch-depth: 0 # Added because of crash
+          token: ${{ secrets.WORKFLOW_TOKEN }} # Added because of crash
       - name: Run shell cmd
         run: echo "https://github.com/${{github.repository}}/commit/${{github.sha}}/checks/${{github.run_id}}"
 
