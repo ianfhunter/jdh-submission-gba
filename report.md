@@ -3,15 +3,15 @@
 Look at the corrections you need to do, if not clear, contact jdh.admin@uni.lu
 
 ## Cell Counts   
-**all cells: 131**  
+**all cells: 132**  
 code_empty: 0   
 markdown: 117   
-code: 14   
+code: 15   
 
 ## Action Outputs
 
 ### Size
-**total cells: 131**
+**total cells: 132**
 ## Kernel Checks: 
 
 > [!CAUTION]
@@ -24,13 +24,15 @@ code: 14
 
 
 ### Check Output Sizes and Rules
-- Output cell 20 size: 2044.54 KB
+- Output cell 8 size: 1919.83 KB
 > First words of input cell: from IPython.display import Image metadata={
-- Audio found in output of cell 67
+- Output cell 21 size: 2044.54 KB
+> First words of input cell: from IPython.display import Image metadata={
+- Audio found in output of cell 68
 > First words of input cell: from IPython.display import Audio print("Example
 
-Total output size: 3927.88 KB
-Total number of images: 10
+Total output size: 5847.71 KB
+Total number of images: 11
 Total number of tables: 0
 Total number of audios: 0
 
@@ -51,188 +53,189 @@ Total number of audios: 0
 
 | Tag | Cell | Remark |
 | --- | --- | --- |
-| image/png | 15 | Correct tagging |
-| image/png | 20 | Correct tagging |
-| image/png | 24 | Correct tagging |
-| text/plain | 39 | Should be replaced |
-| image/png | 43 | Correct tagging |
-| image/png | 52 | Correct tagging |
-| image/png | 52 | Correct tagging |
-| image/png | 52 | Correct tagging |
-| image/png | 52 | Correct tagging |
-| image/png | 54 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZpYW5maHVudGVyJTJGamRoLXN1Ym1pc3Npb24tZ2JhJTJGbWFpbiUyRmFydGljbGUuaXB5bmI=?idx=54) |
-| text/plain | 66 | Should be replaced |
-| text/html | 67 | Correct tagging (audio) |
-| image/png | 86 | Correct tagging |
+| image/png | 8 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZpYW5maHVudGVyJTJGamRoLXN1Ym1pc3Npb24tZ2JhJTJGbWFpbiUyRmFydGljbGUuaXB5bmI=?idx=8) |
+| image/png | 16 | Correct tagging |
+| image/png | 21 | Correct tagging |
+| image/png | 25 | Correct tagging |
+| text/plain | 40 | Should be replaced |
+| image/png | 44 | Correct tagging |
+| image/png | 53 | Correct tagging |
+| image/png | 53 | Correct tagging |
+| image/png | 53 | Correct tagging |
+| image/png | 53 | Correct tagging |
+| image/png | 55 | Image is not tagged properly [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZpYW5maHVudGVyJTJGamRoLXN1Ym1pc3Npb24tZ2JhJTJGbWFpbiUyRmFydGljbGUuaXB5bmI=?idx=55) |
+| text/plain | 67 | Should be replaced |
+| text/html | 68 | Correct tagging (audio) |
+| image/png | 87 | Correct tagging |
 
 
 ### Check HTML
-- Cell 9 - Encountered a start tag: a
-- Cell 9 - Encountered an end tag: a
-- Cell 9 - Encountered a start tag: a
-- Cell 9 - Encountered an end tag: a
+- Cell 10 - Encountered a start tag: a
+- Cell 10 - Encountered an end tag: a
 - Cell 10 - Encountered a start tag: a
 - Cell 10 - Encountered an end tag: a
 - Cell 11 - Encountered a start tag: a
 - Cell 11 - Encountered an end tag: a
-- Cell 11 - Encountered a start tag: a
-- Cell 11 - Encountered an end tag: a
-- Cell 11 - Encountered a start tag: a
-- Cell 11 - Encountered an end tag: a
 - Cell 12 - Encountered a start tag: a
 - Cell 12 - Encountered an end tag: a
-- Cell 16 - Encountered a start tag: a
-- Cell 16 - Encountered an end tag: a
-- Cell 16 - Encountered a start tag: a
-- Cell 16 - Encountered an end tag: a
-- Cell 16 - Encountered a start tag: a
-- Cell 16 - Encountered an end tag: a
-- Cell 19 - Encountered a start tag: a
-- Cell 19 - Encountered an end tag: a
-- Cell 19 - Encountered a start tag: a
-- Cell 19 - Encountered a start tag: i
-- Cell 19 - Encountered an end tag: i
-- Cell 19 - Encountered an end tag: a
-- Cell 19 - Encountered a start tag: a
-- Cell 19 - Encountered a start tag: i
-- Cell 19 - Encountered an end tag: i
-- Cell 19 - Encountered an end tag: a
-- Cell 21 - Encountered a start tag: a
-- Cell 21 - Encountered a start tag: i
-- Cell 21 - Encountered an end tag: i
-- Cell 21 - Encountered an end tag: a
-- Cell 21 - Encountered a start tag: a
-- Cell 21 - Encountered a start tag: i
-- Cell 21 - Encountered an end tag: i
-- Cell 21 - Encountered an end tag: a
+- Cell 12 - Encountered a start tag: a
+- Cell 12 - Encountered an end tag: a
+- Cell 12 - Encountered a start tag: a
+- Cell 12 - Encountered an end tag: a
+- Cell 13 - Encountered a start tag: a
+- Cell 13 - Encountered an end tag: a
+- Cell 17 - Encountered a start tag: a
+- Cell 17 - Encountered an end tag: a
+- Cell 17 - Encountered a start tag: a
+- Cell 17 - Encountered an end tag: a
+- Cell 17 - Encountered a start tag: a
+- Cell 17 - Encountered an end tag: a
+- Cell 20 - Encountered a start tag: a
+- Cell 20 - Encountered an end tag: a
+- Cell 20 - Encountered a start tag: a
+- Cell 20 - Encountered a start tag: i
+- Cell 20 - Encountered an end tag: i
+- Cell 20 - Encountered an end tag: a
+- Cell 20 - Encountered a start tag: a
+- Cell 20 - Encountered a start tag: i
+- Cell 20 - Encountered an end tag: i
+- Cell 20 - Encountered an end tag: a
 - Cell 22 - Encountered a start tag: a
+- Cell 22 - Encountered a start tag: i
+- Cell 22 - Encountered an end tag: i
 - Cell 22 - Encountered an end tag: a
 - Cell 22 - Encountered a start tag: a
+- Cell 22 - Encountered a start tag: i
+- Cell 22 - Encountered an end tag: i
 - Cell 22 - Encountered an end tag: a
-- Cell 22 - Encountered a start tag: a
-- Cell 22 - Encountered an end tag: a
-- Cell 22 - Encountered a start tag: a
-- Cell 22 - Encountered an end tag: a
-- Cell 26 - Encountered a start tag: a
-- Cell 26 - Encountered an end tag: a
-- Cell 28 - Encountered a start tag: a
-- Cell 28 - Encountered an end tag: a
-- Cell 28 - Encountered a start tag: a
-- Cell 28 - Encountered an end tag: a
-- Cell 37 - Encountered a start tag: a
-- Cell 37 - Encountered an end tag: a
-- Cell 39 - Encountered a start tag: span
-- Cell 39 - Encountered an end tag: span
-- Cell 39 - Encountered a start tag: span
-- Cell 39 - Encountered an end tag: span
-- Cell 39 - Encountered a start tag: span
-- Cell 39 - Encountered an end tag: span
-- Cell 39 - Encountered a start tag: span
-- Cell 39 - Encountered an end tag: span
-- Cell 39 - Encountered a start tag: div
-- Cell 39 - Encountered a start tag: span
-- Cell 39 - Encountered an end tag: span
-- Cell 39 - Encountered a start tag: span
-- Cell 39 - Encountered an end tag: span
-- Cell 39 - Encountered a start tag: span
-- Cell 39 - Encountered an end tag: span
-- Cell 39 - Encountered a start tag: span
-- Cell 39 - Encountered an end tag: span
-- Cell 39 - Encountered a start tag: div
-- Cell 39 - Encountered a start tag: div
-- Cell 39 - Encountered a start tag: b
-- Cell 39 - Encountered an end tag: b
-- Cell 39 - Encountered a start tag: span
-- Cell 39 - Encountered an end tag: span
-- Cell 39 - Encountered a start tag: div
-- Cell 39 - Encountered a start tag: b
-- Cell 39 - Encountered an end tag: b
-- Cell 39 - Encountered a start tag: span
-- Cell 39 - Encountered an end tag: span
-- Cell 39 - Encountered a start tag: div
-- Cell 39 - Encountered a start tag: div
-- Cell 39 - Encountered a start tag: b
-- Cell 39 - Encountered an end tag: b
-- Cell 39 - Encountered a start tag: div
-- Cell 39 - Encountered a start tag: b
-- Cell 39 - Encountered an end tag: b
-- Cell 39 - Encountered a start tag: div
-- Cell 39 - Encountered a start tag: b
-- Cell 39 - Encountered an end tag: b
-- Cell 41 - Encountered a start tag: a
-- Cell 41 - Encountered an end tag: a
-- Cell 49 - Encountered a start tag: a
-- Cell 49 - Encountered an end tag: a
-- Cell 56 - Encountered a start tag: a
-- Cell 56 - Encountered an end tag: a
-- Cell 60 - Encountered a start tag: div
-- Cell 60 - Encountered a start tag: div
-- Cell 60 - Encountered a start tag: img
-- Cell 60 - Encountered a start tag: p
-- Cell 60 - Encountered an end tag: p
-- Cell 60 - Encountered a start tag: div
-- Cell 60 - Encountered a start tag: img
-- Cell 60 - Encountered a start tag: p
-- Cell 60 - Encountered an end tag: p
-- Cell 63 - Encountered a start tag: a
-- Cell 63 - Encountered an end tag: a
-- Cell 65 - Encountered a start tag: a
-- Cell 65 - Encountered an end tag: a
-- Cell 65 - Encountered a start tag: a
-- Cell 65 - Encountered an end tag: a
-- Cell 65 - Encountered a start tag: a
-- Cell 65 - Encountered an end tag: a
-- Cell 68 - Encountered a start tag: a
-- Cell 68 - Encountered an end tag: a
+- Cell 23 - Encountered a start tag: a
+- Cell 23 - Encountered an end tag: a
+- Cell 23 - Encountered a start tag: a
+- Cell 23 - Encountered an end tag: a
+- Cell 23 - Encountered a start tag: a
+- Cell 23 - Encountered an end tag: a
+- Cell 23 - Encountered a start tag: a
+- Cell 23 - Encountered an end tag: a
+- Cell 27 - Encountered a start tag: a
+- Cell 27 - Encountered an end tag: a
+- Cell 29 - Encountered a start tag: a
+- Cell 29 - Encountered an end tag: a
+- Cell 29 - Encountered a start tag: a
+- Cell 29 - Encountered an end tag: a
+- Cell 38 - Encountered a start tag: a
+- Cell 38 - Encountered an end tag: a
+- Cell 40 - Encountered a start tag: span
+- Cell 40 - Encountered an end tag: span
+- Cell 40 - Encountered a start tag: span
+- Cell 40 - Encountered an end tag: span
+- Cell 40 - Encountered a start tag: span
+- Cell 40 - Encountered an end tag: span
+- Cell 40 - Encountered a start tag: span
+- Cell 40 - Encountered an end tag: span
+- Cell 40 - Encountered a start tag: div
+- Cell 40 - Encountered a start tag: span
+- Cell 40 - Encountered an end tag: span
+- Cell 40 - Encountered a start tag: span
+- Cell 40 - Encountered an end tag: span
+- Cell 40 - Encountered a start tag: span
+- Cell 40 - Encountered an end tag: span
+- Cell 40 - Encountered a start tag: span
+- Cell 40 - Encountered an end tag: span
+- Cell 40 - Encountered a start tag: div
+- Cell 40 - Encountered a start tag: div
+- Cell 40 - Encountered a start tag: b
+- Cell 40 - Encountered an end tag: b
+- Cell 40 - Encountered a start tag: span
+- Cell 40 - Encountered an end tag: span
+- Cell 40 - Encountered a start tag: div
+- Cell 40 - Encountered a start tag: b
+- Cell 40 - Encountered an end tag: b
+- Cell 40 - Encountered a start tag: span
+- Cell 40 - Encountered an end tag: span
+- Cell 40 - Encountered a start tag: div
+- Cell 40 - Encountered a start tag: div
+- Cell 40 - Encountered a start tag: b
+- Cell 40 - Encountered an end tag: b
+- Cell 40 - Encountered a start tag: div
+- Cell 40 - Encountered a start tag: b
+- Cell 40 - Encountered an end tag: b
+- Cell 40 - Encountered a start tag: div
+- Cell 40 - Encountered a start tag: b
+- Cell 40 - Encountered an end tag: b
+- Cell 42 - Encountered a start tag: a
+- Cell 42 - Encountered an end tag: a
+- Cell 50 - Encountered a start tag: a
+- Cell 50 - Encountered an end tag: a
+- Cell 57 - Encountered a start tag: a
+- Cell 57 - Encountered an end tag: a
+- Cell 61 - Encountered a start tag: div
+- Cell 61 - Encountered a start tag: div
+- Cell 61 - Encountered a start tag: img
+- Cell 61 - Encountered a start tag: p
+- Cell 61 - Encountered an end tag: p
+- Cell 61 - Encountered a start tag: div
+- Cell 61 - Encountered a start tag: img
+- Cell 61 - Encountered a start tag: p
+- Cell 61 - Encountered an end tag: p
+- Cell 64 - Encountered a start tag: a
+- Cell 64 - Encountered an end tag: a
+- Cell 66 - Encountered a start tag: a
+- Cell 66 - Encountered an end tag: a
+- Cell 66 - Encountered a start tag: a
+- Cell 66 - Encountered an end tag: a
+- Cell 66 - Encountered a start tag: a
+- Cell 66 - Encountered an end tag: a
 - Cell 69 - Encountered a start tag: a
 - Cell 69 - Encountered an end tag: a
-- Cell 71 - Encountered a start tag: a
-- Cell 71 - Encountered an end tag: a
-- Cell 71 - Encountered a start tag: a
-- Cell 71 - Encountered an end tag: a
-- Cell 75 - Encountered a start tag: a
-- Cell 75 - Encountered an end tag: a
-- Cell 75 - Encountered a start tag: a
-- Cell 75 - Encountered an end tag: a
-- Cell 77 - Encountered a start tag: a
-- Cell 77 - Encountered an end tag: a
-- Cell 77 - Encountered a start tag: a
-- Cell 77 - Encountered an end tag: a
-- Cell 77 - Encountered a start tag: a
-- Cell 77 - Encountered an end tag: a
-- Cell 83 - Encountered a start tag: a
-- Cell 83 - Encountered an end tag: a
-- Cell 85 - Encountered a start tag: a
-- Cell 85 - Encountered an end tag: a
-- Cell 88 - Encountered a start tag: a
-- Cell 88 - Encountered an end tag: a
-- Cell 88 - Encountered a start tag: a
-- Cell 88 - Encountered an end tag: a
-- Cell 88 - Encountered a start tag: a
-- Cell 88 - Encountered an end tag: a
-- Cell 106 - Encountered a start tag: a
-- Cell 106 - Encountered an end tag: a
-- Cell 108 - Encountered a start tag: a
-- Cell 108 - Encountered an end tag: a
-- Cell 112 - Encountered a start tag: a
-- Cell 112 - Encountered an end tag: a
-- Cell 112 - Encountered a start tag: a
-- Cell 112 - Encountered an end tag: a
+- Cell 70 - Encountered a start tag: a
+- Cell 70 - Encountered an end tag: a
+- Cell 72 - Encountered a start tag: a
+- Cell 72 - Encountered an end tag: a
+- Cell 72 - Encountered a start tag: a
+- Cell 72 - Encountered an end tag: a
+- Cell 76 - Encountered a start tag: a
+- Cell 76 - Encountered an end tag: a
+- Cell 76 - Encountered a start tag: a
+- Cell 76 - Encountered an end tag: a
+- Cell 78 - Encountered a start tag: a
+- Cell 78 - Encountered an end tag: a
+- Cell 78 - Encountered a start tag: a
+- Cell 78 - Encountered an end tag: a
+- Cell 78 - Encountered a start tag: a
+- Cell 78 - Encountered an end tag: a
+- Cell 84 - Encountered a start tag: a
+- Cell 84 - Encountered an end tag: a
+- Cell 86 - Encountered a start tag: a
+- Cell 86 - Encountered an end tag: a
+- Cell 89 - Encountered a start tag: a
+- Cell 89 - Encountered an end tag: a
+- Cell 89 - Encountered a start tag: a
+- Cell 89 - Encountered an end tag: a
+- Cell 89 - Encountered a start tag: a
+- Cell 89 - Encountered an end tag: a
+- Cell 107 - Encountered a start tag: a
+- Cell 107 - Encountered an end tag: a
+- Cell 109 - Encountered a start tag: a
+- Cell 109 - Encountered an end tag: a
 - Cell 113 - Encountered a start tag: a
 - Cell 113 - Encountered an end tag: a
-- Cell 115 - Encountered a start tag: a
-- Cell 115 - Encountered an end tag: a
+- Cell 113 - Encountered a start tag: a
+- Cell 113 - Encountered an end tag: a
+- Cell 114 - Encountered a start tag: a
+- Cell 114 - Encountered an end tag: a
 - Cell 116 - Encountered a start tag: a
 - Cell 116 - Encountered an end tag: a
-- Cell 117 - Encountered a start tag: div
-- Cell 117 - Encountered a start tag: div
-- Cell 117 - Encountered a start tag: img
-- Cell 117 - Encountered a start tag: p
-- Cell 117 - Encountered an end tag: p
-- Cell 117 - Encountered a start tag: div
-- Cell 117 - Encountered a start tag: img
-- Cell 117 - Encountered a start tag: p
-- Cell 117 - Encountered an end tag: p
+- Cell 117 - Encountered a start tag: a
+- Cell 117 - Encountered an end tag: a
+- Cell 118 - Encountered a start tag: div
+- Cell 118 - Encountered a start tag: div
+- Cell 118 - Encountered a start tag: img
+- Cell 118 - Encountered a start tag: p
+- Cell 118 - Encountered an end tag: p
+- Cell 118 - Encountered a start tag: div
+- Cell 118 - Encountered a start tag: img
+- Cell 118 - Encountered a start tag: p
+- Cell 118 - Encountered an end tag: p
 
 
 ### Check JavaScript
@@ -247,44 +250,38 @@ No JavaScript code found in output cells.
 - Cell 5: Tags: ['abstract']
 - Cell 6: Tags: ['abstract']
 - Cell 7: Tags: ['abstract']
-- Cell 13: Tags: ['data-table', 'table-languages-*']
-- Cell 14: Tags: ['hermeneutics']
-- Cell 15: Tags: ['figure-bootleg-*']
-- Cell 20: Tags: ['figure-package-*']
-- Cell 24: Tags: ['figure-releases-*']
-- Cell 36: Tags: ['hermeneutics']
-- Cell 39: Tags: ['figure-overwriting-*']
-- Cell 40: Tags: ['hermeneutics']
-- Cell 43: Tags: ['figure-textreplace-*']
-- Cell 45: Tags: ['hermeneutics']
-- Cell 52: Tags: ['figure-spriteview-*']
-- Cell 53: Tags: ['hermeneutics']
-- Cell 55: Tags: ['hermeneutics']
+- Cell 8: Tags: ['cover']
+- Cell 14: Tags: ['data-table', 'table-languages-*']
+- Cell 15: Tags: ['hermeneutics']
+- Cell 16: Tags: ['figure-bootleg-*']
+- Cell 21: Tags: ['figure-package-*']
+- Cell 25: Tags: ['figure-releases-*']
+- Cell 37: Tags: ['hermeneutics']
+- Cell 40: Tags: ['figure-overwriting-*']
+- Cell 41: Tags: ['hermeneutics']
+- Cell 44: Tags: ['figure-textreplace-*']
+- Cell 46: Tags: ['hermeneutics']
+- Cell 53: Tags: ['figure-spriteview-*']
+- Cell 54: Tags: ['hermeneutics']
 - Cell 56: Tags: ['hermeneutics']
-- Cell 60: Tags: ['figure-comparelogo-*']
-- Cell 66: Tags: ['figure-sappyscreenshot-*']
-- Cell 67: Tags: ['sound-18-*']
-  - Invalid tag: sound-18-*
-- Cell 68: Tags: ['hermeneutics']
+- Cell 57: Tags: ['hermeneutics']
+- Cell 61: Tags: ['figure-comparelogo-*']
+- Cell 67: Tags: ['figure-sappyscreenshot-*']
+- Cell 68: Tags: ['sound-track18-*']
 - Cell 69: Tags: ['hermeneutics']
 - Cell 70: Tags: ['hermeneutics']
-- Cell 74: Tags: ['figure-paging-*']
-- Cell 75: Tags: ['hermeneutics']
-- Cell 80: Tags: ['figure-compile-*']
-- Cell 86: Tags: ['figure-langcompare-*']
-- Cell 97: Tags: ['table-matrix-*']
-- Cell 98: Tags: ['hermeneutics']
-- Cell 121: Tags: ['hermeneutics']
-- Cell 124: Tags: ['hermeneutics']
+- Cell 71: Tags: ['hermeneutics']
+- Cell 75: Tags: ['figure-paging-*']
+- Cell 76: Tags: ['hermeneutics']
+- Cell 81: Tags: ['figure-compile-*']
+- Cell 87: Tags: ['figure-langcompare-*']
+- Cell 98: Tags: ['table-matrix-*']
+- Cell 99: Tags: ['hermeneutics']
+- Cell 122: Tags: ['hermeneutics']
 - Cell 125: Tags: ['hermeneutics']
-> [!WARNING]
-> The following tags are missing or invalid
+- Cell 126: Tags: ['hermeneutics']
 
-#### Missing Tags:
-- cover
-
-#### Invalid Tags:
-- sound-18-*
+All mandatory tags are present in the cells.
 > Make sure to fill this template document [license_to_publish_JDH.dotx](https://github.com/C2DH/journal-of-digital-history-ipynb-preflight-action/blob/master/license_to_publish_JDH.dotx) and send it to jdh.admin@uni.lu
 
 
